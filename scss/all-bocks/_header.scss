@@ -1,0 +1,25 @@
+.hero .container {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.text {
+    margin-left: 20px;
+    color: #83888F;
+    font-family: "Barlow";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.text:hover {
+    opacity: 0.5px;
+    
+}
